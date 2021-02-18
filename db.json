@@ -1,0 +1,127 @@
+{
+  "Tournament": [
+    {
+      "tournamentId": 1,
+      "tournamentName": "my League",
+      "startDate": "13-march-2020",
+      "startTime": "9:50",
+      "endDate": "13-march-2020",
+      "endTime": "9:50",
+      "cutTimePlaying": "10-march-2020",
+      "cutTimeLeague": "12-march-2020",
+      "fileUploadLeague": "doc.xlsx",
+      "fileUploadPlayer": "doc.xlsx",
+      "fileUploadBanner": "doc.jpg"
+    }
+  ],
+  "GroupGame": [
+    {
+      "groupid": 1,
+      "totalMatch": "10",
+      "noMatch": "5",
+      "noGroupGame": "20"
+    }
+  ],
+  "User": [
+    {
+      "id": 1,
+      "Name": "Denish Sonani",
+      "Email": "Denish_sonani12@gmail.com",
+      "LeagueName": "My Dream11",
+      "Tier": "$10",
+      "JoinDate": "10 Jun 2020",
+      "Amount": "$100",
+      "Role": "User",
+      "Status": "Block",
+      "disabled": true
+    },
+    {
+      "id": 2,
+      "Name": "Ramoliya Krunal",
+      "Email": "krunal@gmail.com",
+      "LeagueName": "My Dream11",
+      "Tier": "$10",
+      "JoinDate": "10 Jun 2020",
+      "Amount": "$100",
+      "Role": "User",
+      "Status": "Active",
+      "disabled": true
+    },
+    {
+      "id": 3,
+      "Name": "Denish Sonani",
+      "Email": "Denish_sonani12@gmail.com",
+      "LeagueName": "My Dream11",
+      "Tier": "$10",
+      "JoinDate": "10 Jun 2020",
+      "Amount": "$100",
+      "Role": "User",
+      "Status": "Block",
+      "disabled": true
+    },
+    {
+      "id": 4,
+      "Name": "Ramoliya Krunal",
+      "Email": "krunal@gmail.com",
+      "LeagueName": "My Dream11",
+      "Tier": "$10",
+      "JoinDate": "10 Jun 2020",
+      "Amount": "$100",
+      "Role": "User",
+      "Status": "Active",
+      "disabled": true
+    },
+    {
+      "id": 5,
+      "Name": "Ramoliya Krunal",
+      "Email": "krunal@gmail.com",
+      "LeagueName": "My Dream11",
+      "Tier": "$10",
+      "JoinDate": "10 Jun 2020",
+      "Amount": "$100",
+      "Role": "User",
+      "Status": "Active",
+      "disabled": true
+    }
+  ],
+  "Login": [
+    {
+      "id": 1,
+      "name": "nancy",
+      "email": "nancypatel@gmail.com",
+      "password": "nancy1234",
+      "confirmpassword": "nancy1234"
+    },
+    {
+      "id": 2
+    },
+    {
+      "name": "zinal",
+      "email": "zinal@gmail.com",
+      "password": "zinal1234",
+      "confirmpassword": "zinal1234",
+      "id": 3
+    },
+    {
+      "name": "xyz123",
+      "email": "xyz123@gmail.com",
+      "password": "xyz1234",
+      "confirmpassword": "xyz1234",
+      "id": 4
+    },
+    {
+      "name": "pqr",
+      "email": "pqr123@gmail.com",
+      "password": "pqr123",
+      "confirmpassword": "pqr123",
+      "id": 5
+    },
+    {
+      "name": "Admin",
+      "email": "abc@gmail.com",
+      "password": "admin1234",
+      "confirmpassword": "admin1234",
+      "id": 6
+    }
+  ]
+}
